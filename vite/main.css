@@ -1,0 +1,29 @@
+.wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+header {
+    margin: auto;
+    width: max-content;
+    padding: 0.5em 2em 0.5em 2em;
+}
+
+.img-flex {
+    display: flex;
+    align-items: center;
+    margin: auto;
+    margin-top: 1em;
+    flex-direction: column;
+    width: 50%;
+}
+
+p {
+    text-align: center;
+    width: 50%;
+    padding: 1em;
+}
+
+.imgL {
+    width: 10em;
+}
